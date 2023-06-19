@@ -57,16 +57,40 @@ Woodside Villa, 14 July, 1885
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Dane_John_gardens_-_geograph.org.uk_-_746465.jpg)
 
-The Dane John Gardens were created on common land by Alderman James Simmons in 1790.
+Woodside Villa, 15 July, 1885
 
 #### Diary Entry 5 {href=5}
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Dane_John_mound_-_geograph.org.uk_-_2277327.jpg)
 
-The Dane John Mound is a Roman cemetery in Canterbury.
+Woodside Villa, 16 July, 1885
 
 #### Diary Entry 6 {href=6}
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Dane_John_mound_-_geograph.org.uk_-_2277327.jpg)
 
-The Dane John Mound is a Roman cemetery in Canterbury.
+Woodside Villa, 17 July, 1885
+
+#### Diary Entry 7 {href=7}
+
+![](https://iiif.juncture-digital.org/thumbnail/wc:Dane_John_mound_-_geograph.org.uk_-_2277327.jpg)
+
+Woodside Villa, 19 July, 1885
+
+#### Diary Entry 8 {href=8}
+
+![](https://iiif.juncture-digital.org/thumbnail/wc:Dane_John_mound_-_geograph.org.uk_-_2277327.jpg)
+
+Woodside Villa, 17 July, 1885
+
+#### Diary Entry 9 {href=9}
+
+![](https://iiif.juncture-digital.org/thumbnail/wc:Dane_John_mound_-_geograph.org.uk_-_2277327.jpg)
+
+Woodside Villa, 17 July, 1885
+
+#### Diary Entry 10 {href=10}
+
+![](https://iiif.juncture-digital.org/thumbnail/wc:Dane_John_mound_-_geograph.org.uk_-_2277327.jpg)
+
+Woodside Villa, 17 July, 1885
