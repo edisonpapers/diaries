@@ -18,9 +18,9 @@ Edison spent much of June and July 1885 in Boston and environs in the company of
 
 NOTE: Map to zoom to 733,737,411,289
 
-.ve-media gh:edisonpapers/media/WinthropCroppedMap/Winthrop_Cropped_Map.jpg left height=300px
+.ve-media gh:edisonpapers/media/WinthropCroppedMap/Winthrop_Cropped_Map.jpg left height=350px
 
-.ve-media gh:edisonpapers/media/WoodsideParkNo4/Woodside_Park_No_4.jpg right height=300px
+.ve-media gh:edisonpapers/media/WoodsideParkNo4/Woodside_Park_No_4.jpg right height=350px
 
 .ve-media gh:edisonpapers/media/EzraTGililand/Ezra_T_Gililand.jpg right width=60%
 
