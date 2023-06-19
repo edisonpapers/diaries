@@ -34,9 +34,9 @@ The diary may also be read as a courtship document. Edison's first wife, Mary, h
 
 # The Courtship
 
-.ve-media gh:edisonpapers/media/ThomasAlvaEdison1884/Thomas_Alva_Edison_1884.jpg left height=400px
+.ve-media gh:edisonpapers/media/ThomasAlvaEdison1884/Thomas_Alva_Edison_1884.jpg
 
-.ve-media gh:edisonpapers/media/Mina-c-1885/Mina_c_1885.jpg right height=400px
+.ve-media gh:edisonpapers/media/Mina-c-1885/Mina_c_1885.jpg right
 
 .ve-media https://edisondigital.rutgers.edu/iiif/X453V right width=50%
 
