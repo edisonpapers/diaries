@@ -38,7 +38,7 @@ The diary may also be read as a courtship document. Edison's first wife, Mary, h
 
 .ve-media gh:edisonpapers/media/Mina-c-1885/Mina_c_1885.jpg right height=400px
 
-.ve-media https://edisondigital.rutgers.edu/document/X453V right width=60%
+.ve-media https://edisondigital.rutgers.edu/iiif/X453V right width=60%
 
 Precisely when Edison and Mina were introduced has been a matter of dispute.  Newspapers at the time of their marriage made conflicting claims, which historians and biographers have sometimes used to reconstruct the story of their courtship. Mina herself, in a 1947 interview with Associated Press reporter Milton Marmor, said that she first met Edison at a "friend's" Boston apartment during a dinner party. "I was taking music at the time," Mina noted. "I never played for anybody but they asked me to play, and so I said, 'Oh, well, I'll never see these people again.' That was the first time we knew each other." She found Edison to be, on the basis of this first encounter, "a genial, lovely man."  Marmor then asked, "Do you remember after you first met Mr. Edison at the dinner in Boston whether anything developed that night? Did the romance develop then? To this, Mina replied somewhat ambiguously: 
 
