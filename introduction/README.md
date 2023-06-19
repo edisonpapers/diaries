@@ -16,7 +16,7 @@
 
 Edison spent much of June and July 1885 in Boston and environs in the company of long-time friend Ezra Gilliland and his wife Lillian.  Much of that time was spent at ==No. 3 Woodside Park=={description="Samuel Insull addressed Edison at this address in a letter of 20 July 1885."}, the Gillilands rented cottage in Winthrop, on the shore of Boston Harbor.
 
-.ve-media gh:edisonpapers/media/WinthropCroppedMap/Winthrop_Cropped_Map.jpg left width=80%
+.ve-media gh:edisonpapers/media/WinthropCroppedMap/Winthrop_Cropped_Map.jpg 733,737,411,289 left width=80%
 
 .ve-media gh:edisonpapers/media/WoodsideParkNo4/Woodside_Park_No_4.jpg right width=80%
 
