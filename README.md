@@ -24,37 +24,37 @@ Read the Introduction
 
 #### Diary Entry 1 {href=1}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary01/Diary_Entry_01.png)
+![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_01.png)
 
 Menlo Park, New Jersey, 12 July 1885
 
 #### Diary Entry 2 {href=2}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary02/Diary_Entry_02.png)
+![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_02.png)
 
 Menlo Park, New Jersey, 13 July 1885
 
 #### Diary Entry 3 {href=3}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary03/Diary_Entry_03.png)
+![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_03.png)
 
 Woodside Villa, Boston Harbor, 14 July, 1885
 
 #### Diary Entry 4 {href=4}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary04/Diary_Entry_04.png)
+![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_04.png)
 
 Woodside Villa, Boston Harbor, 15 July, 1885
 
 #### Diary Entry 5 {href=5}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary05/Diary_Entry_05.png)
+![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_05.png)
 
 Woodside Villa, Boston Harbor, 16 July, 1885
 
 #### Diary Entry 6 {href=6}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary06/Diary_Entry_06.png)
+![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_06.png)
 
 Woodside Villa, Boston Harbor, 17 July, 1885
 
@@ -66,18 +66,18 @@ Woodside Villa, Boston Harbor, 18 July, 1885
 
 #### Diary Entry 8 {href=8}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary08/Diary_Entry_08.png)
+![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_08.png)
 
 Woodside Villa, Boston Harbor, 19 July, 1885
 
 #### Diary Entry 9 {href=9}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary09/Diary_Entry_09.png)
+![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_09.png)
 
 Woodside Villa, Boston Harbor, 20 July, 1885
 
 #### Diary Entry 10 {href=10}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary10/Diary_Entry_10.png)
+![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_10.png)
 
 Woodside Villa, Boston Harbor, 21 July, 1885
