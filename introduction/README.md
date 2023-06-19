@@ -30,7 +30,7 @@ It is unclear when Edison’s first visit to Woodside Villa (as he called it in 
 
 ## Returning to Winthrop
 
-.ve-media gh:edisonpapers/media/SteamshipLine/Steamship_Line_NY_to_New_Providence.jpg left
+.ve-media gh:edisonpapers/media/SteamshipLine/Steamship_Line_NY_to_New_Providence.jpg left caption="Steamship Line New York to Providence"
 
 During this last visit, Edison and others in the party each kept a diary to be shared for their mutual entertainment. Edison's diary is the only known volume that he kept specifically to record thoughts and feelings of a personal nature.  It begins with events on 12 July, when he was still at Menlo Park, and continues with an account of his travels on 13–14 July from New York City through Long Island Sound on an overnight boat to Providence, Rhode Island, where they took a train to Boston. Edison composed these early entries retrospectively as he recorded his purchase of the diary books and pencils in Boston in his entry of July 15. Thereafter, the journal continues with accounts of the week's recreations, which included sailing, listening to music, and reading aloud.  Edison incorporated observations on literature, art, and religion, along with comments about his dreams, his health, and the weather.  
 
