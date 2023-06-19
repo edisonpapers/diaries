@@ -30,15 +30,17 @@ It is unclear when Edison’s first visit to Woodside Villa (as he called it in 
 
 ## Returning to Winthrop
 
-.ve-media gh:edisonpapers/media/SteamshipLine/Steamship_Line_NY_to_New_Providence.jpg left width=60%
+.ve-media gh:edisonpapers/media/SteamshipLine/Steamship_Line_NY_to_New_Providence.jpg left width=80%
 
 During this last visit, Edison and others in the party each kept a diary to be shared for their mutual entertainment. Edison's diary is the only known volume that he kept specifically to record thoughts and feelings of a personal nature.  It begins with events on 12 July, when he was still at Menlo Park, and continues with an account of his travels on 13–14 July from New York City through Long Island Sound on an overnight boat to Providence, Rhode Island, where they took a train to Boston. Edison composed these early entries retrospectively as he recorded his purchase of the diary books and pencils in Boston in his entry of July 15. Thereafter, the journal continues with accounts of the week's recreations, which included sailing, listening to music, and reading aloud.  Edison incorporated observations on literature, art, and religion, along with comments about his dreams, his health, and the weather.  
+
+## Heading
 
 .ve-media https://edisondigital.rutgers.edu/iiif/X018A5Z left seq=10 width=60%
 
 The diary may also be read as a courtship document. Edison's first wife, Mary, had died in August 1884. His daughter Marion later recalled that it was while traveling with the Gillilands to New Orleans and Florida in February and March 1885 that her father concluded "he wanted a home, a wife and a mother for his three children and asked Mrs. Gilliland, who lived in Boston, to introduce him to some suitable girls." The Gillilands seem to have arranged Edison's stay at Winthrop in order to introduce him to marriageable women of appropriate background.  Mrs. Gilliland ==invited=={description="Mina apparently was invited to Winthrop sometime after Louise Igoe and Daisy Gaston. Those two longtime Indianapolis friends of the Gillilands knew their intentions by mid- April; Mina, six or seven years younger and a more recent acquaintance, made her plans a month later."} two—Grace "Daisy" Gaston and Louise M. Igoe—from her hometown of Indianapolis and another—Mina Miller, of more recent acquaintance—from Akron, Ohio.  Edison used the diary to signal—clearly but gently—to the Gillilands and the other young women his preference for Miss Miller, who would become his second wife in February 1886. 
 
-# The Courtship
+## The Courtship
 
 .ve-media gh:edisonpapers/media/ThomasAlvaEdison1884/Thomas_Alva_Edison_1884.jpg left height=400px
 
