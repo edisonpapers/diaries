@@ -14,7 +14,7 @@
 
 # Thomas Edison’s 1885 Diary 
 
-Edison spent much of June and July 1885 in Boston and environs in the company of long-time friend Ezra Gilliland and his wife Lillian.  Much of that time was spent at ==No. 3 Woodside Park=={description="Samuel Insull addressed Edison at this address in a letter of 20 July 1885."}, the Gillilands rented cottage in Winthrop, on the shore of Boston Harbor. No. 3 was likely the middle of the five cottages built in 1885 at Woodside Park. The one at the top of the park, now No. 4 Woodside, was the subject of a cultural resource report in 1994 and is the best preserved example of the 1885 design.
+Edison spent much of June and July 1885 in Boston and environs in the company of long-time friend Ezra Gilliland and his wife Lillian.  Much of that time was spent at ==No. 3 Woodside Park=={description="Samuel Insull addressed Edison at this address in a letter of 20 July 1885. No. 3 was probably the middle of the five cottages built in 1885 at Woodside Park. The one at the top of the park, which was the subject of a cultural resource report in 1994, may be the best preserved example of the 1885 design."}, the Gillilands rented cottage in Winthrop, on the shore of Boston Harbor. No. 3 was likely the middle of the five cottages built in 1885 at Woodside Park. The one at the top of the park, now No. 4 Woodside, was the subject of a cultural resource report in 1994 and is the best preserved example of the 1885 design.
 
 NOTE: Map to zoom to 733,737,411,289
 
