@@ -29,7 +29,7 @@ This site highlights Thomas Alva Edison's 1885 Diary through IIIF image viewers,
 
 ### Read the Diary {.cards}
 
-#### Introduction {href=#}
+#### Introduction {href=introduction}
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Canterbury_-_lavatory_tower03b.jpg)
 
@@ -39,27 +39,34 @@ Read the Introduction
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Augustine_Abbey.jpg)
 
-July, Entry 1 (text to change) 
+Menlo Park N.J.
+Sunday July 12 1885
 
-#### Diary Entry 2 {href=#}
+#### Diary Entry 2 {href=2}
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:High_Street%2C_Canterbury%2C_Kent.jpg)
 
 July Entry 2 (text to change) 
 
-#### Diary Entry 3 {href=#}
+#### Diary Entry 3 {href=3}
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Canterbury_cathedral_20160901.jpg)
 
 Founded in 597, the cathedral is the oldest Christian structure in England.
 
-#### Diary Entry 4 {href=#}
+#### Diary Entry 4 {href=4}
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Dane_John_gardens_-_geograph.org.uk_-_746465.jpg)
 
 The Dane John Gardens were created on common land by Alderman James Simmons in 1790.
 
-#### Diary Entry 5 {href=#}
+#### Diary Entry 5 {href=5}
+
+![](https://iiif.juncture-digital.org/thumbnail/wc:Dane_John_mound_-_geograph.org.uk_-_2277327.jpg)
+
+The Dane John Mound is a Roman cemetery in Canterbury.
+
+#### Diary Entry 6 {href=6}
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Dane_John_mound_-_geograph.org.uk_-_2277327.jpg)
 
