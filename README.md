@@ -12,7 +12,7 @@
     - [Diary Entry 9](/9)
     - [Diary Entry 10](/10)
     
-This site highlights Thomas Alva Edison's 1885 Diary through IIIF image viewers, transcriptions and annotations. Our homepage is under construction but you can read the introduction to the diary and the 10 diary entries by navigating the links below or the main navigation menu. 
+This site highlights Thomas Alva Edison's July 1885 Diary through IIIF image viewers, transcriptions and annotations. It is a collaboration between Edison Paper Director Paul Israel, interns Mia De Angelis and Katherine Little from the Rutgers Public History Certificate program, and Nicole Wines, who helps the project develop its digital and public humanities outreach. Click on the links below to read an Introduction to the diary and each of the ten Diary Entries.
 
 ### Read the Diary {.cards}
 
