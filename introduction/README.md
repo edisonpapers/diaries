@@ -32,7 +32,7 @@ During this last visit, Edison and others in the party each kept a diary to be s
 
 The diary may also be read as a courtship document. Edison's first wife, Mary, had died in August 1884. His daughter Marion later recalled that it was while traveling with the Gillilands to New Orleans and Florida in February and March 1885 that her father concluded "he wanted a home, a wife and a mother for his three children and asked Mrs. Gilliland, who lived in Boston, to introduce him to some suitable girls." The Gillilands seem to have arranged Edison's stay at Winthrop in order to introduce him to marriageable women of appropriate background.  Mrs. Gilliland ==invited=={description="Mina apparently was invited to Winthrop sometime after Louise Igoe and Daisy Gaston. Those two longtime Indianapolis friends of the Gillilands knew their intentions by mid- April; Mina, six or seven years younger and a more recent acquaintance, made her plans a month later."} two—Grace "Daisy" Gaston and Louise M. Igoe—from her hometown of Indianapolis and another—Mina Miller, of more recent acquaintance—from Akron, Ohio.  Edison used the diary to signal—clearly but gently—to the Gillilands and the other young women his preference for Miss Miller, who would become his second wife in February 1886. 
 
-<br>
+# The Courtship
 
 .ve-media gh:edisonpapers/media/ThomasAlvaEdison1884/Thomas_Alva_Edison_1884.jpg left height=400px
 
