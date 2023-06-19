@@ -30,7 +30,7 @@ Menlo Park, New Jersey, 12 July 1885
 
 #### Diary Entry 2 {href=2}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_05.png)
+![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_02.png)
 
 Menlo Park, New Jersey, 13 July 1885
 
