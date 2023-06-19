@@ -1,6 +1,16 @@
 .ve-header "Diary Entry #6" https://edisondigital.rutgers.edu/iiif/MA023 "Woodside Villa, Boston Harbor, July 17, 1885" pct:30,30,60,40 center sticky
     - [Home](/)
-    - [About](/about)==placeholder=={Menlo Park N.J. July 17, 1885}==placeholder=={Menlo Park N.J. July 17, 1885}[]
+    - [Introduction](/introduction)
+    - [Diary Entry 1](/1)
+    - [Diary Entry 2](/2)
+    - [Diary Entry 3](/3)
+    - [Diary Entry 4](/4)
+    - [Diary Entry 5](/5)
+    - [Diary Entry 6](/6)
+    - [Diary Entry 7](/7)
+    - [Diary Entry 8](/8)
+    - [Diary Entry 9](/9)
+    - [Diary Entry 10](/10)
 
 # Page 1
 
