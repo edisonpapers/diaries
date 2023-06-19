@@ -22,9 +22,11 @@ NOTE: Map to zoom to 733,737,411,289
 
 .ve-media gh:edisonpapers/media/WoodsideParkNo4/Woodside_Park_No_4.jpg right height=350px
 
-.ve-media gh:edisonpapers/media/EzraTGililand/Ezra_T_Gililand.jpg right width=60%
+.ve-media gh:edisonpapers/media/EzraTGililand/Ezra_T_Gililand.jpg right width=50%
 
 It is unclear when Edison’s first visit to Woodside Villa (as he called it in his diary) took place. He and Gilliland were working together at Gilliland’s office in the American Bell Telephone Co.’s headquarters at 95 Milk St. in Boston in late May and early in June but likely spent some time in Winthrop. After returning to New York on ==9 June=={description="Edison was with Ezra Gilliland in Boston early in June, perhaps for as long as a week, before he was back in New York on 9 June, and the two men may have spent some time in Winthrop."}. he traveled back to Boston on June 18 and probably spent most of his time in Winthrop until he returned to New York at the end of the first week of July.  On July 13, Edison began an overnight journey, accompanied by his daughter Marion, back to Boston and Winthrop, where he spent the week of 14–21 July.  
+
+.ve-media gh:edisonpapers/media/SteamshipLine/Steamship_Line_NY_to_New_Providence.jpg left width=50%
 
 During this last visit, Edison and others in the party each kept a diary to be shared for their mutual entertainment. Edison's diary is the only known volume that he kept specifically to record thoughts and feelings of a personal nature.  It begins with events on 12 July, when he was still at Menlo Park, and continues with an account of his travels on 13–14 July from New York City through Long Island Sound on an overnight boat to Providence, Rhode Island, where they took a train to Boston. Edison composed these early entries retrospectively as he recorded his purchase of the diary books and pencils in Boston in his entry of July 15. Thereafter, the journal continues with accounts of the week's recreations, which included sailing, listening to music, and reading aloud.  Edison incorporated observations on literature, art, and religion, along with comments about his dreams, his health, and the weather.  
 
@@ -50,13 +52,9 @@ Precisely when Edison and Mina were introduced has been a matter of dispute.  Ne
 > "I don't think that was an accident," Marmor observed. To which Mina responded, "I guess it was. Anyway, we enjoyed it there. I was there a week and he went there once in awhile." 
 
 It is clear from Mina's account, which must be reckoned the most definitive, that she and Edison were introduced at the Gillilands' Boston apartment in the Hotel Huntington, 101 Milk Street, though the time of the meeting remains uncertain.  They could have met one Sunday in late January when they both were in Boston, though it is also possible that they met some other time in the winter or spring. It is unclear if they met when Edison was in Boston or Winthrop from the end of May through early June but they likely had occasion to deepen their acquaintance after Edison returned to Winthrop in mid-June.  The Boston Daily Globe noted on 28 June that Edison and Daisy Gaston were staying with the Gillilands at Winthrop, and his correspondence shows that he did not return to New York until 7 or 8 July.  For her part, Mina attended the Yale commencement on 25 June and the Yale-Harvard Boat Race in New London, Connecticut, the next day but was in Winthrop before 1 July.  She seems to have stayed with the Gillilands after Edison departed for New York.  However, she left Winthrop before Edison returned on the fourteenth. Although his acquaintance with Mina at Winthrop was brief, it was long enough for her to have made an indelible impression on the young widower, who soon after publicly signaled his affection toward her as "the Maid of Chataqua."  
-
- 
-
  
 
 ----
-
 
 Edison and Mina had occasion to deepen their acquaintance at the end of June or beginning of July.  He returned to the Gillilands' hospitality about 20 June and overlapped with Mina as their guest into early July.  ==The Boston Daily Globe noted on 28 June=={description="Two of the more persistent stories are that they met either at the World's Industrial and Cotton Exhibition at New Orleans in late February or early March 1885, or at the Miller family's summer house in Chautauqua, New York, during the ensuing summer. These reports are erroneous, however. Mina's account book for 1885 shows that she did not travel to New Orleans in the late winter but remained in Boston, and Edison does not appear to have been in Chautauqua until August, well after he wrote of her in his diary."} that Edison and Daisy Gaston were staying with the Gillilands at Winthrop, and his correspondence shows that he did not return to New York until 7 or 8 July.  For her part, Mina attended the Yale commencement on 25 June and the Yale-Harvard Boat Race in New London, Connecticut, the next day but was in Winthrop before 1 July.  She seems to have stayed with the Gillilands after Edison departed for New York.  However, she left Winthrop before Edison returned on the fourteenth. Although his acquaintance with Mina at Winthrop was brief, it was long enough for her to have made an indelible impression on the young widower, who soon after publicly signaled his affection toward her as "the Maid of Chataqua" (Doc. ZAF). 
 
