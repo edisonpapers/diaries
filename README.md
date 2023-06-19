@@ -12,7 +12,7 @@
     - [Diary Entry 9](/9)
     - [Diary Entry 10](/10)
     
-This site highlights Thomas Alva Edison's 1885 Diary through IIIF image viewers, transcriptions and annotations. Our homepage is under construction but you can read the introduction to the diary and the 10 diary entries by navigating the links below or our menu. 
+This site highlights Thomas Alva Edison's 1885 Diary through IIIF image viewers, transcriptions and annotations. Our homepage is under construction but you can read the introduction to the diary and the 10 diary entries by navigating the links below or the main navigation menu. 
 
    - [Introduction](/introduction)
    - [Diary Entry 1](/1)
