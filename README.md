@@ -18,7 +18,7 @@ This site highlights Thomas Alva Edison's 1885 Diary through IIIF image viewers,
 
 #### Introduction {href=introduction}
 
-![](https://edisonpapers.github.io/ThomasAlvaEdison1884/Thomas_Alva_Edison_1884.jpg)
+![](https://edisonpapers.github.io/media/ThomasAlvaEdison1884/Thomas_Alva_Edison_1884.jpg)
 
 Read the Introduction 
 
