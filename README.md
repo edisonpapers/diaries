@@ -35,7 +35,7 @@ This site highlights Thomas Alva Edison's 1885 Diary through IIIF image viewers,
 
 Read the Introduction 
 
-#### Diary Entry 1 {href=#}
+#### Diary Entry 1 {href=1}
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Augustine_Abbey.jpg)
 
