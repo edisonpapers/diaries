@@ -24,7 +24,7 @@ Read the Introduction
 
 #### Diary Entry 1 {href=1}
 
-![](https://iiif.juncture-digital.org/thumbnail/wc:Augustine_Abbey.jpg)
+![](https://github.com/edisonpapers/media/blob/main/ThomasAlvaEdison1884/Thomas_Alva_Edison_1884.jpg#:~:text=ThomasAlvaEdison1884-,Thomas_Alva_Edison_1884,-.jpg)
 
 Menlo Park, New Jersey, 12 July 1885
 
