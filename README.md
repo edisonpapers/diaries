@@ -24,7 +24,7 @@ Read the Introduction
 
 #### Diary Entry 1 {href=1}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/ThomasAlvaEdison1884/diary01.jpg)
+![](https://raw.githubusercontent.com/edisonpapers/media/main/diary01/Diary_Entry_01.jpg)
 
 Menlo Park, New Jersey, 12 July 1885
 
