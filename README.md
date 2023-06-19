@@ -18,7 +18,7 @@ This site highlights Thomas Alva Edison's 1885 Diary through IIIF image viewers,
 
 #### Introduction {href=introduction}
 
-![](https://iiif.juncture-digital.org/thumbnail/wc:Canterbury_-_lavatory_tower03b.jpg)
+![](https://edisondigital.rutgers.edu/iiif/MA001)
 
 Read the Introduction 
 
