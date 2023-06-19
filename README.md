@@ -11,3 +11,17 @@
     - [Diary Entry 8](/8)
     - [Diary Entry 9](/9)
     - [Diary Entry 10](/10)
+    
+This site highlights Thomas Alva Edison's 1885 Diary through IIIF image viewers, transcriptions and annotations. Our homepage is under construction but you can read the introduction to the diary and the 10 diary entries by navigating the links below or our menu. 
+
+   - [Introduction](/introduction)
+   - [Diary Entry 1](/1)
+   - [Diary Entry 2](/2)
+   - [Diary Entry 3](/3)
+   - [Diary Entry 4](/4)
+   - [Diary Entry 5](/5)
+   - [Diary Entry 6](/6)
+   - [Diary Entry 7](/7)
+   - [Diary Entry 8](/8)
+   - [Diary Entry 9](/9)
+   - [Diary Entry 10](/10)
