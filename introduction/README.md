@@ -22,8 +22,6 @@ NOTE: Map to zoom to 733,737,411,289
 
 .ve-media gh:edisonpapers/media/WoodsideParkNo4/Woodside_Park_No_4.jpg right height=350px
 
-----
-
 .ve-media gh:edisonpapers/media/EzraTGililand/Ezra_T_Gililand.jpg right width=60%
 
 It is unclear when Edison’s first visit to Woodside Villa (as he called it in his diary) took place. He and Gilliland were working together at Gilliland’s office in the American Bell Telephone Co.’s headquarters at 95 Milk St. in Boston in late May and early in June but likely spent some time in Winthrop. After returning to New York on ==9 June=={description="Edison was with Ezra Gilliland in Boston early in June, perhaps for as long as a week, before he was back in New York on 9 June, and the two men may have spent some time in Winthrop."}. he traveled back to Boston on June 18 and probably spent most of his time in Winthrop until he returned to New York at the end of the first week of July.  On July 13, Edison began an overnight journey, accompanied by his daughter Marion, back to Boston and Winthrop, where he spent the week of 14–21 July.  
