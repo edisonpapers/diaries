@@ -45,7 +45,7 @@ Menlo Park N.J., 12 July 1885
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:High_Street%2C_Canterbury%2C_Kent.jpg)
 
-July Entry 2 (text to change) 
+Menlo Park N.J., 13 July 1885
 
 #### Diary Entry 3 {href=3}
 
