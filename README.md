@@ -60,7 +60,7 @@ Woodside Villa, Boston Harbor, 17 July, 1885
 
 #### Diary Entry 7 {href=7}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary07/Diary_Entry_07.png)
+![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_07.png)
 
 Woodside Villa, Boston Harbor, 18 July, 1885
 
