@@ -51,7 +51,7 @@ Menlo Park N.J., 13 July 1885
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Canterbury_cathedral_20160901.jpg)
 
-Founded in 597, the cathedral is the oldest Christian structure in England.
+Woodside Villa, 14 July, 1885
 
 #### Diary Entry 4 {href=4}
 
