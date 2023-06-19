@@ -39,8 +39,7 @@ Read the Introduction
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Augustine_Abbey.jpg)
 
-Menlo Park N.J.
-Sunday July 12 1885
+Menlo Park N.J., 12 July 1885
 
 #### Diary Entry 2 {href=2}
 
