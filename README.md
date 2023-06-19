@@ -18,15 +18,13 @@ This site highlights Thomas Alva Edison's 1885 Diary through IIIF image viewers,
 
 #### Introduction {href=introduction}
 
-![](https://raw.githubusercontent.com/edisonpapers/main/media/ThomasAlvaEdison1884/Thomas_Alva_Edison_1884.jpg)
+![](https://raw.githubusercontent.com/edisonpapers/media/main/ThomasAlvaEdison1884/Thomas_Alva_Edison_1884.jpg)
 
 Read the Introduction 
 
 #### Diary Entry 1 {href=1}
 
 ![](https://github.com/edisonpapers/media/blob/main/ThomasAlvaEdison1884/Thomas_Alva_Edison_1884.jpg#:~:text=ThomasAlvaEdison1884-,Thomas_Alva_Edison_1884,-.jpg)
-
-https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/17c.jpg
 
 Menlo Park, New Jersey, 12 July 1885
 
