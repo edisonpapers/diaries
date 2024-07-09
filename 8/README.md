@@ -43,3 +43,8 @@ After supper ==Mrs. G=={description="Lillian Gilliland, the daughter of Sidney J
 .ve-media https://edisondigital.rutgers.edu/iiif/MA031 seq=5 left
 
 shining brightly girls called my attention several times to beauty of the light from said moon shining upon the waters, couldnt appreciate it, was so busy taking a mental triangulation of the moon the two sides of said triangle meeting the base line of the earth at Woodside and ==Akron, Ohio=={description="The family home of Mina Miller, named Oak Place, was in Akron, Ohio."}. Miss Igoe told us about her love of ancient literature, how she loved to read latin, but couldn't. I told her I was so fond of Greek that I always rushed for the comedies of Aristophanes to read whenever I had the jumping toothache. Bed Mina, Morning.
+
+# 
+----------
+
+<h4 style="text-align: center;"><a href="/7">View Previous Entry</a> | <a href="/9">View Next Entry</a></h3> 
