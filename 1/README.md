@@ -59,4 +59,4 @@ a scientific man with no farm experience I explained the necessity of having a r
 # 
 ----------
 
-<h4 style="text-align: center;"><a href="/introduction">View Introduction</a> | <a href="/2">Next Entry</a></h3> 
+<h4 style="text-align: center;"><a href="/introduction">View Introduction</a> | <a href="/2">View Next Entry</a></h3> 
