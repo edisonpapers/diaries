@@ -57,4 +57,9 @@ Precisely when Edison and Mina were introduced has been a matter of dispute.  Ne
 
 It is clear from Mina's account, which must be reckoned the most definitive, that she and Edison were introduced at the Gillilands' Boston apartment in the Hotel Huntington, 101 Milk Street, though the time of the meeting remains uncertain.  They could have met one Sunday in late January when they both were in Boston, though it is also possible that they met some other time in the winter or spring. It is unclear if they met when Edison was in Boston or Winthrop from the end of May through early June but they likely had occasion to deepen their acquaintance after Edison returned to Winthrop in mid-June.  The Boston Daily Globe noted on 28 June that Edison and Daisy Gaston were staying with the Gillilands at Winthrop, and his correspondence shows that he did not return to New York until 7 or 8 July.  For her part, Mina attended the Yale commencement on 25 June and the Yale-Harvard Boat Race in New London, Connecticut, the next day but was in Winthrop before 1 July.  She seems to have stayed with the Gillilands after Edison departed for New York.  However, she left Winthrop before Edison returned on the fourteenth. Although his acquaintance with Mina at Winthrop was brief, it was long enough for her to have made an indelible impression on the young widower, who soon after publicly signaled his affection toward her as "the Maid of Chataqua."  
 
+# 
+----------
+
+<h4 style="text-align: center;"><a href="/introduction">Return Home</a> | <a href="/2">View First Entry</a></h3> 
+
  
