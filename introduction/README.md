@@ -60,6 +60,6 @@ It is clear from Mina's account, which must be reckoned the most definitive, tha
 # 
 ----------
 
-<h4 style="text-align: center;"><a href="/introduction">Return Home</a> | <a href="/2">View First Entry</a></h3> 
+<h4 style="text-align: center;"><a href="/">Return Home</a> | <a href="/1">View First Entry</a></h3> 
 
  
