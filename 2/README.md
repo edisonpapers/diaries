@@ -38,3 +38,8 @@ which is a sponge cake kind of literature, very witty and charming and a ==work 
 .ve-media https://edisondigital.rutgers.edu/iiif/MA007 seq=4 left
 
 for ==Railroad Telegh experiment=={description="At this time Edison and Gilliland were collaborating on experiments in railway telegraphy, a system for sending telegraph messages through the air, without connective wires, to or from a moving train. Erastus Wiman was interested in testing Edison&#39;s system on his Staten Island Railway. They finally conducted a public demonstration on 1 February 1886. However, the system was never used commercially."} will get costs in day or so. Tomlinson made Sammy mad by saying he Insull was Valet to my intellect= Got $100 met Dot and skipped for the Argosy of the Puritan Sea: ie ==Sound Steamboat=={description="The Providence and Stonington Steamship Company ran two boats (the Rhode Island and theMassachusetts) from New York City through Long Island Sound to Providence, Rhode Island. Edison and Marion took a night boat."} Dot is reading a novel rather trashy, Love hash. I completed reading Aldrich's Bad Boy and advanced 50 pages in Goethe then retired to a "Sound" sleep.
+
+# 
+----------
+
+<h4 style="text-align: center;"><a href="/1">View Previous Entry</a> | <a href="/3">View Next Entry</a></h3> 
