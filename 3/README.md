@@ -41,4 +41,4 @@ The frequency of their reception will confirm or disaffirm my conjectures as to 
 # 
 ----------
 
-<h4 style="text-align: center;"><a href="/3">View Previous Entry</a> | <a href="/5">View Next Entry</a></h3> 
+<h4 style="text-align: center;"><a href="/2">View Previous Entry</a> | <a href="/4">View Next Entry</a></h3> 
