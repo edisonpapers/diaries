@@ -37,3 +37,8 @@ and I went into a minute expense account of our proposed ==earthly paradise=={de
 .ve-media https://edisondigital.rutgers.edu/iiif/MA019 seq=5 left
 
 photograph rests on the mantel, shews very beautiful girl every fly that has attempted to light on it has slipped and fallen. going to put piece of chalk near it so they can chalk their feet.  this will permit with safety the insectiverous branch of nature to gaze upon a picture of what they will attained after ages of evolution. Ladies went to bed, this removed the articulating upholstery, then we went to bed.
+
+# 
+----------
+
+<h4 style="text-align: center;"><a href="/4">View Previous Entry</a> | <a href="/6">View Next Entry</a></h3> 
