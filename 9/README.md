@@ -14,7 +14,7 @@
 
 # Page 1
 
-.ve-media https://edisondigital.rutgers.edu/iiif/3/MA036/manifest left
+.ve-media https://edisondigital.rutgers.edu/iiif/MA036 left
 
 <div style="text-align: right"><h4>Woodside July 20 1885</h4><br></div>
 
